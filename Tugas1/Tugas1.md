@@ -43,7 +43,7 @@ Terdapat beberapa macam time complexity, diantaranya:
 
 <p align="justify"> Contoh diatas, terdapat sebuah fungsi untuk mengambil elemen pertama dari sebuah input array. Kita bisa melihat bahwa berapapun jumlah array yang diberikan kepada fungsi tersebut, dia akan selalu melakukan 1 hal, yaitu mengambil elemen pertama. Itu artinya <b>jumlah input yang diberikan tidak mempengaruhi waktu proses (runtime) dari algoritma tersebut.</b>
 
-<p align="center"><img src="constant.png">
+<p align="center"><img src="constant.PNG">
 <p align="center">Constant Time
 
 ### **O(log n) — Logarithmic Time**
@@ -106,7 +106,7 @@ Kita bisa melihat bahwa <b>semakin banyak jumlah input yang diberikan, maka wakt
     }
     let sortedArray = sort(myArray);
 
-<p align="center"><img src="Quadric.png">
+<p align="center"><img src="Quadratic.png">
 <p align="center">Quadric Time
 
 ### **O(2^n) — Exponential Time**
